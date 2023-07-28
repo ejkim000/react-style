@@ -11,8 +11,8 @@ function Footer() {
                 <Flex>
                     <ul>
                         <li>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua
+                            111 Gold St. <br />
+                            Heaven, UN 00000
                         </li>
                         <li>+1-543-123-4567</li>
                         <li>example@huddle.com</li>

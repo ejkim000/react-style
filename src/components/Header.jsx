@@ -15,7 +15,7 @@ function Header() {
             <Flex>
                 <div>
                     <h1>Build The Community Your Fans Will Love</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias corrupti aliquam, laboriosam odit quae earum! Dolorum non itaque ipsa aut similique consectetur ipsam facilis hic necessitatibus.</p>
+                    <p>Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.</p>
                     <Button bg='#ff0099' color='#fff'>Get Started For Free</Button>
                 </div>
 
